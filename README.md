@@ -1,9 +1,10 @@
-NIGHTFALL.
-A POWERFUL MULTITOOL WITH RATELIMIT HANDLING, PROXY ROTATION AND MUCH MORE.
-INCLUDES TONS OF FEATURES.
-NOT A MALWARE, IT IS OPEN SOURCED.
+NIGHTFALL 
+nightfall.site.xyz
 
-PROGRAMMED IN PYTHON, MADE BY 6aw8/i5tg/TheFunnyCacuts. (Previous usernames)
+A powerful multitool with rate limit handling, proxy rotation, and much more.
+Packed with tons of features.
+Not a malware — it is open sourced.
 
+Programmed in Python by 6aw8 / i5tg / TheFunnyCactus (previous usernames).
 
-DO NOT SKID THIS LMAO :ROFL:
+Don't skid this lmao 🤣
