@@ -1,5 +1,4 @@
 NIGHTFALL 
-nightfall.site.xyz
 
 A powerful multitool with rate limit handling, proxy rotation, and much more.
 Packed with tons of features.
