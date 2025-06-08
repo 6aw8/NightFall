@@ -3,7 +3,7 @@ A POWERFUL MULTITOOL WITH RATELIMIT HANDLING, PROXY ROTATION AND MUCH MORE.
 INCLUDES TONS OF FEATURES.
 NOT A MALWARE, IT IS OPEN SOURCED.
 
-PROGRAMMED IN PYTHON, MADE BY 6aw8/i5tg/TheFunnyCacuts.
-Cyroc,Warfin if your here. I want to remind that you were the coolest friends i had.
+PROGRAMMED IN PYTHON, MADE BY 6aw8/i5tg/TheFunnyCacuts. (Previous usernames)
+
 
 DO NOT SKID THIS LMAO :ROFL:
