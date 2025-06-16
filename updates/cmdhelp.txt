@@ -1,0 +1,11 @@
+1. Settings:
+
+  Back - Returns to the previous menu.
+  Count Tokens - Helps you count the number of tokens entered in a file. (assets\config\tokens.txt)
+  View Tokens - Displays the tokens in the command prompt. (assets\config\tokens.txt)
+
+2. Raider:
+
+  Back - Returns to the previous menu.
+  Raider - Spams a server with all the tokens available. (Ratelimit can be adjusted in source)
+  Pastebin Raider - 

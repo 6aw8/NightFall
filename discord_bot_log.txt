@@ -1,0 +1,256 @@
+[2025-05-28 09:01:36] [INFO    ] discord.client: logging in using static token
+[2025-05-28 09:01:37] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-28 09:02:59] [INFO    ] discord.client: logging in using static token
+[2025-05-28 09:03:00] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-28 09:08:32] [INFO    ] discord.client: logging in using static token
+[2025-05-28 09:08:33] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-28 09:10:00] [INFO    ] discord.client: logging in using static token
+[2025-05-28 09:10:00] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-28 09:11:55] [INFO    ] discord.client: logging in using static token
+[2025-05-28 09:11:55] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-28 09:12:20] [INFO    ] discord.client: logging in using static token
+[2025-05-28 09:12:21] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-28 09:19:10] [INFO    ] discord.client: logging in using static token
+[2025-05-28 09:19:10] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-28 09:22:42] [INFO    ] discord.client: logging in using static token
+[2025-05-28 09:22:42] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-28 09:30:51] [INFO    ] discord.client: logging in using static token
+[2025-05-28 09:30:52] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-29 17:42:42] [INFO    ] discord.client: logging in using static token
+[2025-05-29 17:42:42] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-29 17:48:40] [INFO    ] discord.client: logging in using static token
+[2025-05-29 17:48:41] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-29 17:49:37] [INFO    ] discord.client: logging in using static token
+[2025-05-29 17:49:38] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-29 17:50:44] [INFO    ] discord.client: logging in using static token
+[2025-05-29 17:50:45] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-29 17:53:20] [INFO    ] discord.client: logging in using static token
+[2025-05-29 17:53:21] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-29 18:00:02] [INFO    ] discord.client: logging in using static token
+[2025-05-29 18:00:03] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-29 18:20:18] [INFO    ] discord.client: logging in using static token
+[2025-05-29 18:20:19] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-29 20:47:18] [INFO    ] discord.client: logging in using static token
+[2025-05-29 20:47:18] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 09:36:20] [INFO    ] discord.client: logging in using static token
+[2025-05-30 09:36:21] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 09:53:40] [INFO    ] discord.client: logging in using static token
+[2025-05-30 09:53:40] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 11:47:24] [INFO    ] discord.client: logging in using static token
+[2025-05-30 11:47:24] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 12:09:01] [INFO    ] discord.client: logging in using static token
+[2025-05-30 12:09:02] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 12:17:12] [INFO    ] discord.client: logging in using static token
+[2025-05-30 12:17:13] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 12:18:58] [INFO    ] discord.client: logging in using static token
+[2025-05-30 12:18:58] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 12:28:56] [INFO    ] discord.client: logging in using static token
+[2025-05-30 12:28:57] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 12:43:05] [INFO    ] discord.client: logging in using static token
+[2025-05-30 12:43:05] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 12:51:54] [INFO    ] discord.client: logging in using static token
+[2025-05-30 12:51:55] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 12:53:32] [INFO    ] discord.client: logging in using static token
+[2025-05-30 12:53:32] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 12:56:38] [INFO    ] discord.client: logging in using static token
+[2025-05-30 12:56:39] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:02:03] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:02:04] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:05:53] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:05:53] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:10:36] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:10:37] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:11:23] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:11:23] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:15:35] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:15:36] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:16:38] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:16:38] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:21:35] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:21:36] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:22:44] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:22:44] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:27:14] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:27:14] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:28:04] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:28:04] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:56:40] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:56:41] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 13:59:58] [INFO    ] discord.client: logging in using static token
+[2025-05-30 13:59:58] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 14:09:52] [INFO    ] discord.client: logging in using static token
+[2025-05-30 14:09:53] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 16:26:35] [INFO    ] discord.client: logging in using static token
+[2025-05-30 16:26:36] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-30 18:34:33] [INFO    ] discord.client: logging in using static token
+[2025-05-30 18:34:33] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-31 12:42:56] [INFO    ] discord.client: logging in using static token
+[2025-05-31 12:42:56] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-05-31 12:49:29] [INFO    ] discord.client: logging in using static token
+[2025-05-31 12:49:30] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 19:12:05] [INFO    ] discord.client: logging in using static token
+[2025-06-01 19:12:05] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 19:23:34] [INFO    ] discord.client: logging in using static token
+[2025-06-01 19:23:34] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 19:28:50] [INFO    ] discord.client: logging in using static token
+[2025-06-01 19:28:51] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 19:30:21] [INFO    ] discord.client: logging in using static token
+[2025-06-01 19:30:22] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 19:31:09] [INFO    ] discord.client: logging in using static token
+[2025-06-01 19:31:09] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 19:32:18] [INFO    ] discord.client: logging in using static token
+[2025-06-01 19:32:18] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 19:32:54] [INFO    ] discord.client: logging in using static token
+[2025-06-01 19:32:55] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:01:28] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:01:29] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:10:42] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:10:43] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:12:02] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:12:02] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:12:10] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:12:10] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:17:00] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:17:00] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:22:53] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:22:53] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:28:49] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:28:49] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:33:22] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:33:22] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:37:59] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:37:59] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:45:58] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:45:58] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:49:38] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:49:38] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:52:42] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:52:42] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-01 21:54:07] [INFO    ] discord.client: logging in using static token
+[2025-06-01 21:54:08] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 12:28:41] [INFO    ] discord.client: logging in using static token
+[2025-06-02 12:28:41] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 12:49:56] [INFO    ] discord.client: logging in using static token
+[2025-06-02 12:49:56] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 13:05:17] [INFO    ] discord.client: logging in using static token
+[2025-06-02 13:05:18] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 13:27:47] [INFO    ] discord.client: logging in using static token
+[2025-06-02 13:27:48] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 13:28:36] [INFO    ] discord.client: logging in using static token
+[2025-06-02 13:28:36] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 13:33:14] [INFO    ] discord.client: logging in using static token
+[2025-06-02 13:33:14] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 13:35:43] [INFO    ] discord.client: logging in using static token
+[2025-06-02 13:35:43] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 13:37:10] [INFO    ] discord.client: logging in using static token
+[2025-06-02 13:37:10] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 13:40:51] [INFO    ] discord.client: logging in using static token
+[2025-06-02 13:40:51] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 13:44:21] [INFO    ] discord.client: logging in using static token
+[2025-06-02 13:44:22] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 13:48:16] [INFO    ] discord.client: logging in using static token
+[2025-06-02 13:48:16] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 13:51:27] [INFO    ] discord.client: logging in using static token
+[2025-06-02 13:51:27] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 14:13:23] [INFO    ] discord.client: logging in using static token
+[2025-06-02 14:13:24] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 14:42:08] [INFO    ] discord.client: logging in using static token
+[2025-06-02 14:42:09] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 14:45:23] [INFO    ] discord.client: logging in using static token
+[2025-06-02 14:45:24] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 14:48:38] [INFO    ] discord.client: logging in using static token
+[2025-06-02 14:48:38] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 14:51:24] [INFO    ] discord.client: logging in using static token
+[2025-06-02 14:51:25] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 14:55:22] [INFO    ] discord.client: logging in using static token
+[2025-06-02 14:55:22] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 14:59:13] [INFO    ] discord.client: logging in using static token
+[2025-06-02 14:59:14] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 15:19:55] [INFO    ] discord.client: logging in using static token
+[2025-06-02 15:19:56] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 15:29:22] [INFO    ] discord.client: logging in using static token
+[2025-06-02 15:29:22] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 15:30:03] [INFO    ] discord.client: logging in using static token
+[2025-06-02 15:30:03] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-02 15:31:25] [INFO    ] discord.client: logging in using static token
+[2025-06-02 15:31:26] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2043-01-04 00:33:14] [INFO    ] discord.client: logging in using static token
+[2043-01-04 00:33:14] [CRITICAL] An unexpected error occurred while starting the bot: Cannot connect to host discord.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)')]
+[2043-01-04 00:36:28] [INFO    ] discord.client: logging in using static token
+[2043-01-04 00:36:28] [CRITICAL] An unexpected error occurred while starting the bot: Cannot connect to host discord.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)')]
+[2025-06-03 18:38:23] [INFO    ] discord.client: logging in using static token
+[2025-06-03 18:38:24] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-03 18:40:55] [INFO    ] discord.client: logging in using static token
+[2025-06-03 18:40:56] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-03 18:41:49] [INFO    ] discord.client: logging in using static token
+[2025-06-03 18:41:49] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-03 18:47:52] [INFO    ] discord.client: logging in using static token
+[2025-06-03 18:47:52] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-03 19:01:22] [INFO    ] discord.client: logging in using static token
+[2025-06-03 19:01:23] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-03 19:06:51] [INFO    ] discord.client: logging in using static token
+[2025-06-03 19:06:52] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-03 20:34:27] [INFO    ] discord.client: logging in using static token
+[2025-06-03 20:34:28] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-03 21:18:21] [INFO    ] discord.client: logging in using static token
+[2025-06-03 21:18:21] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-03 21:19:54] [INFO    ] discord.client: logging in using static token
+[2025-06-03 21:19:54] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-04 17:38:28] [INFO    ] discord.client: logging in using static token
+[2025-06-04 17:38:29] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-05 09:09:10] [INFO    ] discord.client: logging in using static token
+[2025-06-05 09:09:10] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-05 10:36:37] [INFO    ] discord.client: logging in using static token
+[2025-06-05 10:36:38] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-05 10:38:32] [INFO    ] discord.client: logging in using static token
+[2025-06-05 10:38:32] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-05 16:18:53] [INFO    ] discord.client: logging in using static token
+[2025-06-05 16:18:54] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-05 16:21:20] [INFO    ] discord.client: logging in using static token
+[2025-06-05 16:21:20] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:25:10] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:25:10] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:30:32] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:30:32] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:35:46] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:35:46] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:37:15] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:37:15] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:38:23] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:38:23] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:39:53] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:39:53] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:42:03] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:42:04] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:42:41] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:42:41] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:43:34] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:43:34] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:44:34] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:44:35] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:50:39] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:50:39] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:51:26] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:51:26] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:52:47] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:52:47] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:53:16] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:53:16] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 17:53:31] [INFO    ] discord.client: logging in using static token
+[2025-06-07 17:53:32] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 18:15:08] [INFO    ] discord.client: logging in using static token
+[2025-06-07 18:15:08] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 18:19:18] [INFO    ] discord.client: logging in using static token
+[2025-06-07 18:19:18] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 18:22:47] [INFO    ] discord.client: logging in using static token
+[2025-06-07 18:22:47] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-07 18:24:44] [INFO    ] discord.client: logging in using static token
+[2025-06-07 18:24:44] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-08 11:44:33] [INFO    ] discord.client: logging in using static token
+[2025-06-08 11:44:34] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-08 13:00:55] [INFO    ] discord.client: logging in using static token
+[2025-06-08 13:00:56] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-08 15:25:26] [INFO    ] discord.client: logging in using static token
+[2025-06-08 15:25:27] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\NightFall4Discord\NightFall\nightfall@discord\assets\config\bottoken.txt
+[2025-06-16 12:32:56] [INFO    ] discord.client: logging in using static token
+[2025-06-16 12:32:56] [CRITICAL] Invalid bot token. Please check C:\Users\WINDOWS\Desktop\nightfall@discord\nightfall@discord\assets\config\bottoken.txt
