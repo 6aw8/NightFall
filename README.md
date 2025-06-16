@@ -9,4 +9,6 @@ Programmed in Python by 6aw8 / i5tg / TheFunnyCactus (previous usernames).
 Don't skid this lmao 🤣
 
 
-NOTE: Features such as generator as removed due to security reasons!
+NOTE: Features such as generator are removed due to security reasons!
+
+NightFall is discontinued...
